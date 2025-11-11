@@ -1,0 +1,52 @@
+# -- Theme Options --
+# These options control how the theme functions and allow you to
+# customise the display of your website.
+#
+# Refer to the theme docs for more details about each of these parameters.
+# https://jpanther.github.io/congo/docs/configuration/#theme-parameters
+
+colorScheme = "congo"
+defaultAppearance = "light" # valid options: light or dark
+autoSwitchAppearance = true
+
+
+enableSearch = true
+enableCodeCopy = true
+enableImageLazyLoading = true
+enableImageWebp = true
+enableQuicklink = true
+
+# robots = ""
+fingerprintAlgorithm = "sha256"
+
+[header]
+  layout = "hybrid" # valid options: basic, hamburger, hybrid, custom
+  showTitle = true
+
+[homepage]
+  layout = "profile" # valid options: page, profile, custom
+  showRecent = false
+
+[author]
+  name = "Behrooz Filizadeh"
+  description = "Data Engineer"
+  image = "author.jpeg"
+  links = [
+          {email = "."},
+          {github = "."},
+      ]
+[list]
+  showBreadcrumbs = false
+  showSummary = false
+  showTableOfContents = false
+  showTaxonomies = false
+  groupByYear = false
+  paginationWidth = 1
+
+[taxonomy]
+  showTermCount = false
+
+[footer]
+  showThemeAttribution = false
+  showCopyright = true
+
