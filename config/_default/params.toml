@@ -28,7 +28,7 @@ fingerprintAlgorithm = "sha256"
   showRecent = false
 
 [author]
-  name = "Behrooz Filizadeh"
+  name = "Behrooz Filzadeh"
   description = "Data Engineer"
   image = "author.jpeg"
   links = [
