@@ -30,7 +30,7 @@ fingerprintAlgorithm = "sha256"
 [author]
   name = "Behrooz Filzadeh"
   description = "Data Engineer"
-  image = "author.jpeg"
+  image = "photo_2025-11-12_03-53-17.jpg"
   links = [
           {email = "."},
           {github = "."},
