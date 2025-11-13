@@ -35,6 +35,33 @@ hugo server -D
 
 The site will be available at `http://localhost:1313`. Changes are automatically reloaded!
 
+## Running Locally with Docker
+
+This project includes a Makefile that simplifies Docker operations. The Makefile automatically detects whether you have Docker or Podman installed and uses the appropriate command to mange the container.
+
+### Prerequisites
+
+- Docker or Podman installed on your system
+- Make utility
+
+### Quick Start
+
+1. **Build and run the application:**
+   ```bash
+   make run
+   ```
+   This will automatically build the Docker image and start the container in detached mode.
+
+2. **Access the application:**
+   Open your browser and navigate to `http://localhost`
+
+### Available Commands
+
+- `make build` - Build the Docker image
+- `make run` - Build and run the container (runs build automatically)
+- `make stop` - Stop the running container
+- `make clean` - Stop, remove the container, and delete the image
+
 ## Installing Hugo
 
 See the [Hugo releases page](https://github.com/gohugoio/hugo/releases) for installation instructions.
