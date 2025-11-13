@@ -13,6 +13,7 @@ This project showcases collaboration through Git version control and serves as a
 
 [![Vercel Deployment](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://personal-website-beta-umber-43.vercel.app)
 [![Netlify Deployment](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://main--jovial-kangaroo-8cf6d9.netlify.app/)
+[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-181717?style=for-the-badge&logo=github&logoColor=white)](https://behrooz-filzadeh.github.io/)
 
 ---
 
@@ -22,6 +23,7 @@ This project showcases collaboration through Git version control and serves as a
 |----------|-----|
 | 🟢 Vercel | [personal-website-beta-umber-43.vercel.app](https://personal-website-beta-umber-43.vercel.app/) |
 | 🔷 Netlify | [main--jovial-kangaroo-8cf6d9.netlify.app](https://main--jovial-kangaroo-8cf6d9.netlify.app/) |
+| ⚫ GitHub Pages | [behrooz-filzadeh.github.io](https://behrooz-filzadeh.github.io/) |
 
 </div>
 
