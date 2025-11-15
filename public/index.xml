@@ -6,6 +6,14 @@
     <description>Recent content in Behrooz Filzadeh on </description>
     <generator>Hugo</generator>
     <language>en</language>
+    <lastBuildDate>Fri, 14 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>//localhost:1313/pages/about_me/</link>
+      <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/pages/about_me/</guid>
+      <description>&lt;h1 id=&#34;-hi-im-behrooz-filzadeh&#34; class=&#34;relative group&#34;&gt;👋 Hi, I&amp;rsquo;m Behrooz Filzadeh &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#-hi-im-behrooz-filzadeh&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h1&gt;&lt;hr&gt;&#xA;&lt;h2 id=&#34;-what-i-do&#34; class=&#34;relative group&#34;&gt;🚀 What I Do &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#-what-i-do&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h2&gt;&lt;p&gt;I&amp;rsquo;m a &lt;strong&gt;Data &amp;amp; ML Engineer&lt;/strong&gt; specializing in building &lt;strong&gt;scalable data systems&lt;/strong&gt; and &lt;strong&gt;production-grade MLOps pipelines&lt;/strong&gt; on &lt;strong&gt;Azure&lt;/strong&gt; and &lt;strong&gt;AWS&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;I design and develop &lt;strong&gt;end-to-end AI and data platforms&lt;/strong&gt; that transform raw, messy data into automated, reliable, and cost-efficient workflows. My work spans the entire lifecycle of modern data engineering:&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
