@@ -5,23 +5,23 @@ draft: false
 type: "page"
 ---
 
-# 👋 Hi, I'm Behrooz Filzadeh
+#  Hi, I'm Behrooz Filzadeh
 
 ---
 
-## 🚀 What I Do
+##  What I Do
 
 I'm a **Data & ML Engineer** specializing in building **scalable data systems** and **production-grade MLOps pipelines** on **Azure** and **AWS**.
 
 I design and develop **end-to-end AI and data platforms** that transform raw, messy data into automated, reliable, and cost-efficient workflows. My work spans the entire lifecycle of modern data engineering:
 
-- 🔄 **Large-scale ETL pipelines** and feature engineering
-- 🤖 **Model deployment**, monitoring, and observability
-- ⚙️ **CI/CD integration** using MLflow and modern DevOps practices
+-  **Large-scale ETL pipelines** and feature engineering
+-  **Model deployment**, monitoring, and observability
+-  **CI/CD integration** using MLflow and modern DevOps practices
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+##  Tech Stack & Expertise
 
 ### Cloud & Data Platforms
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -46,40 +46,52 @@ languages = {
 
 ---
 
-## 💡 What Drives Me
+##  What Drives Me
 
 I'm passionate about creating **clean, scalable, cloud-native architectures** that empower machine learning at production scale. My focus areas include:
 
-- ✨ **Automation** – Eliminating manual processes
-- 🔍 **Observability** – Building systems you can trust
-- 📊 **Reliability** – Engineering for uptime and resilience
-- ⚡ **Performance** – Optimizing for speed and cost-efficiency
+-  **Automation** – Eliminating manual processes
+-  **Observability** – Building systems you can trust
+-  **Reliability** – Engineering for uptime and resilience
+-  **Performance** – Optimizing for speed and cost-efficiency
 
 ---
 
-## 🌐 Collaboration & Interests
+##  Collaboration & Interests
 
 I actively contribute to:
-- 🧩 Open-source data tools and frameworks
-- 🤝 MLOps infrastructure projects
-- 🔬 AI/ML engineering communities
+-  Open-source data tools and frameworks
+-  MLOps infrastructure projects
+-  AI/ML engineering communities
 
 I'm always exploring innovative ways to improve data workflows, ML deployment strategies, and cloud architecture patterns.
 
 ---
 
-## 📬 Let's Connect!
+##  Let's Connect!
 
 Are you working on:
-- 🔄 Transforming data workflows?
-- 🚀 Deploying ML models at scale?
-- ☁️ Building high-impact cloud solutions?
+-  Transforming data workflows?
+-  Deploying ML models at scale?
+-  Building high-impact cloud solutions?
 
 **I'd love to connect and collaborate!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+<div class="badge-column">
+  <a href="https://github.com/Behroozfili" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=behrooz.filzadeh@gmail.com" target="_blank" rel="noopener">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</div>
+
+
+
+
+
+
+
 
 ---
 
