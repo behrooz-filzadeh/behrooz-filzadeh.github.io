@@ -1,0 +1,71 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@400;700&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Orbitron', sans-serif;
+  background: #0b0c10;
+  color: #ffffff;
+  background-image: radial-gradient(circle at 20% 20%, #4cafee 1px, transparent 1px);
+  background-size: 50px 50px;
+  overflow-x: hidden;
+}
+
+
+button.ai-btn {
+  background: #0ff;
+  color: #0b0c10;
+  border: none;
+  padding: 12px 28px;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+  box-shadow: 0 0 10px #0ff, 0 0 20px #0ff;
+  transition: 0.3s;
+}
+
+button.ai-btn:hover {
+  box-shadow: 0 0 20px #0ff, 0 0 40px #0ff;
+  transform: scale(1.05);
+}
+
+
+.card {
+  background: rgba(15, 12, 40, 0.6);
+  backdrop-filter: blur(10px);
+  border-radius: 12px;
+  border: 1px solid rgba(0, 255, 255, 0.3);
+  padding: 20px;
+  margin: 20px;
+  box-shadow: 0 0 10px rgba(0, 255, 255, 0.5);
+}
+
+
+a {
+  color: #0ff;
+  text-decoration: none;
+  transition: 0.2s;
+}
+
+a:hover {
+  color: #88d3ce;
+  text-shadow: 0 0 8px #0ff;
+}
+
+
+h1, h2, h3 {
+  color: #0ff;
+  text-shadow: 0 0 5px #0ff;
+}
+
+
+@keyframes glow {
+  0% {background-position: 0 0;}
+  50% {background-position: 100px 100px;}
+  100% {background-position: 0 0;}
+}
+
+body {
+  animation: glow 30s linear infinite;
+}
